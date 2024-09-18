@@ -45,7 +45,7 @@ public class Main {
             System.out.println("Месяц "+ i + " Сумма накоплений рвана "+  Nakoplenia +" рублей");
         }
         for (int i = 1; i<11;i++){
-            System.out.println(2 + "*" + i + "=" + (2 * i));
+            System.out.println(2 + " * " + i + " = " + (2 * i));
         }
 
     }
